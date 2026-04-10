@@ -19,14 +19,11 @@ function App() {
   useEffect(() => {
     const fetchAndSetData = (lng: string) => {
       setError(null);
-      fetch(`/data_${lng}.json`)
-        .then(response => {
-          if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-          }
-          return response.json();
+      // Use dynamic import to load the JSON data
+      import(`./data/data_${lng}.json`)
+        .then(module => {
+          setData(module.default);
         })
-        .then(data => setData(data))
         .catch(error => {
           console.error(`Failed to load data for language: ${lng}`, error);
           setError(t('error_loading_data'));

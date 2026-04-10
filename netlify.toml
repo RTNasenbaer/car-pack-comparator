@@ -1,8 +1,3 @@
 [build]
   command = "yarn build"
   publish = "dist"
-
-[[redirects]]
-  from = "/data_:lang.json"
-  to = "/data_:lang.json"
-  status = 200
