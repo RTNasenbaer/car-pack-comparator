@@ -9,7 +9,7 @@ interface PairwiseComparisonProps {
 const byName = (packs: Pack[], name: string): Pack | undefined => packs.find((p) => p.name === name);
 
 const setFromCategory = (pack: Pack, categoryName: string): Set<string> => {
-    const values = (pack.categories[categoryName] || []).map(f => f.name).slice();
+    const values = (pack.categories[categoryName] || []).slice();
     return new Set(values);
 };
 

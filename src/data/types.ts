@@ -8,7 +8,7 @@ export interface Pack {
     fileName: string;
     name: string;
     features: PackEntry[];
-    categories: Record<string, PackEntry[]>;
+    categories: Record<string, string[]>;
     duplicateFeatures: Record<string, PackEntry[]>;
     duplicateFeaturesGlobal: {
         feature: string;
