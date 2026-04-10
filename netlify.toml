@@ -1,3 +1,8 @@
 [build]
-  command = "python src/scripts/generate_car_pack_report.py --base-dir src/data --output ../../public/data.json && vite build"
+  command = "yarn build"
   publish = "dist"
+
+[[redirects]]
+  from = "/data_:lang.json"
+  to = "/data_:lang.json"
+  status = 200
