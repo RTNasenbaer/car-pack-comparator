@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carConfiguration name="Cupra Tavascan Adrenaline Pack">
+    <category name="Räder">
+        <feature>21" Leichtmetallräder "KATLA Black/Copper", glanzgedreht, 9J x 21", Reifen 255/40 R21</feature>
+        <feature>Reifen 255/40 R21 mit Self-Sealing-Funktion</feature>
+    </category>
+    <category name="Außenausstattung">
+        <feature>Außenspiegel mit Memory-Funktion und Beifahrerspiegelabsenkung</feature>
+        <feature>Seitenscheiben ab 2. Sitzreihe und Heckscheibe dunkel getönt</feature>
+        <feature>Panorama Glasdach, nicht zu öffnen mit elektrischem Sonnenschutzrollo</feature>
+        <feature>Türeinstiegsleisten vorne mit "CUPRA" Schriftzug, beleuchtet</feature>
+        <feature>Äußere Türgriffmulden, vorne beleuchtet</feature>
+        <feature>Heckklappe elektrisch betätigt (Öffnung&amp; Schließung) inkl. sensorgesteuerter Öffnung (virtuelles Pedal)</feature>
+    </category>
+    <category name="Innenausstattung">
+        <feature>CUPRA Supersportmultifunktionslenkrad mit Wippen zur Rekuperationseinstellung und CUPRA Mode Selector, beheizbar</feature>
+        <feature>Mittelarmlehne hinten, mit Durchlademöglichkeit</feature>
+        <feature>Variabler Gepäckraumboden</feature>
+        <feature>Smart Ambient Light mit hinterleuchteten Tür-Elementen vorne und hinten</feature>
+    </category>
+    <category name="Innenausstattung Sitze">
+        <feature>CUPRA Sportschalensitze aus recyceltem Mikrofaser in Dark Night Blue, vorne</feature>
+        <feature>Lendenwirbelstütze vorne, pneumatisch einstellbar</feature>
+        <feature>CUPRA Sportschalensitze aus recyceltem Mikrofaser in Dark Night Blue, vorne</feature>
+        <feature>Vordersitze beheizbar</feature>
+        <feature>Vordersitze elektrisch einstellbar mit Memory Funktion</feature>
+    </category>
+    <category name="Klimatisierung">
+        <feature>Climatronic ( 3-Zonen ) mit Klimabedienteil hinten</feature>
+    </category>
+    <category name="Laden"/>
+    <category name="Radio-, Navigations- und Multimediasysteme">
+        <feature>Sennheiser High-End Surround Soundsystem, mit 12 Lautsprechern</feature>
+        <feature>Navigationssystem mit 15" Display und erweiterten CUPRA CONNECT Funktionen ³</feature>
+    </category>
+    <category name="Licht">
+        <feature>Matrix-LED-Scheinwerfer mit Signature Ceremony</feature>
+    </category>
+    <category name="Sicherheits- und Assistenzsysteme">
+        <feature>Parklenkassistent "Intelligent Park Assist" (IPA) und "Remote Park Assist" (RPA)</feature>
+        <feature>Top View Kamera</feature>
+        <feature>Trained Park Assist (TPA)</feature>
+        <feature>AR Head-up-Display</feature>
+        <feature>Adaptive Fahrwerksregelung DCC</feature>
+        <feature>Spurhalteassistent Plus inkl. Travel Assist, Emergency Assist und Stauassistent</feature>
+        <feature>Kessy advanced, Schlüsselloses Schließ-und Startsystem</feature>
+        <feature>Diebstahl-Warnanlage inkl. Innenraumüberwachung, Back-up-Horn, Abschleppschutz</feature>
+    </category>
+</carConfiguration>

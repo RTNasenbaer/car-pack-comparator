@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carConfiguration name="Extreme Pack inkl. Adrenaline Pack">
+    <category name="Räder">
+        <feature>21" geschmiedete Leichtmetallräder "ETNA Black/Copper", glanzgedreht, Hochleistungsreifen 255/40 R21</feature>
+        <feature>Hochleistungsreifen 255/40 R21</feature>
+    </category>
+    <category name="Außenausstattung">
+        <feature>Außenspiegel mit Memory-Funktion und Beifahrerspiegelabsenkung</feature>
+        <feature>Panorama Glasdach, nicht zu öffnen mit elektrischem Sonnenschutzrollo</feature>
+        <feature>Seitenscheiben ab 2. Sitzreihe und Heckscheibe dunkel getönt</feature>
+        <feature>Heckklappe elektrisch betätigt (Öffnung&amp; Schließung) inkl. sensorgesteuerter Öffnung (virtuelles Pedal)</feature>
+        <feature>Äußere Türgriffmulden, vorne beleuchtet</feature>
+        <feature>Türeinstiegsleisten vorne mit "CUPRA" Schriftzug, beleuchtet</feature>
+    </category>
+    <category name="Innenausstattung">
+        <feature>Variabler Gepäckraumboden</feature>
+        <feature>Mittelarmlehne hinten, mit Durchlademöglichkeit</feature>
+        <feature>Smart Ambient Light mit hinterleuchteten Tür-Elementen vorne und hinten</feature>
+        <feature>Dashboard in Black, Armablagen in den Türen und Mittelkonsole in Enceladus Grey</feature>
+        <feature>CUPRA Supersportmultifunktionslenkrad aus Leder, mit Wippen zur Rekuperationseinstellung und CUPRA Mode Selector, beheizbar</feature>
+    </category>
+    <category name="Innenausstattung Sitze">
+        <feature>CUPRA "CUP" Supersport-Schalensitze aus Leder in Enceladus Grey vorne, belüftet</feature>
+        <feature>Vordersitze beheizbar</feature>
+        <feature>Kopfstützen für Vordersitze</feature>
+        <feature>Vordersitze elektrisch einstellbar mit Memory Funktion</feature>
+        <feature>Sitzbelüftung vorn</feature>
+        <feature>Lendenwirbelstütze vorne, pneumatisch einstellbar</feature>
+    </category>
+    <category name="Klimatisierung">
+        <feature>Climatronic ( 3-Zonen ) mit Klimabedienteil hinten</feature>
+    </category>
+    <category name="Laden"/>
+    <category name="Radio-, Navigations- und Multimediasysteme">
+        <feature>Navigationssystem mit 15" Display und erweiterten CUPRA CONNECT Funktionen ³</feature>
+        <feature>Sennheiser High-End Surround Soundsystem, mit 12 Lautsprechern</feature>
+    </category>
+    <category name="Licht">
+        <feature>Matrix-LED-Scheinwerfer mit Signature Ceremony</feature>
+    </category>
+    <category name="Sicherheits- und Assistenzsysteme">
+        <feature>Diebstahl-Warnanlage inkl. Innenraumüberwachung, Back-up-Horn, Abschleppschutz</feature>
+        <feature>Adaptive Fahrwerksregelung DCC</feature>
+        <feature>Trained Park Assist (TPA)</feature>
+        <feature>AR Head-up-Display</feature>
+        <feature>Spurhalteassistent Plus inkl. Travel Assist, Emergency Assist und Stauassistent</feature>
+        <feature>Parklenkassistent "Intelligent Park Assist" (IPA) und "Remote Park Assist" (RPA)</feature>
+        <feature>ISOFIX-Kindersitz-Sicherungssystem, in der 2. Sitzreihe links und rechts, i-Size kompatibel inkl. Top Tether Verankerungspunkte hinten</feature>
+        <feature>Top View Kamera</feature>
+        <feature>Kessy advanced, Schlüsselloses Schließ-und Startsystem</feature>
+    </category>
+</carConfiguration>

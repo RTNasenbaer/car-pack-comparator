@@ -1,0 +1,322 @@
+{
+  "generatedAt": "2026-04-10 17:26:02",
+  "packs": [
+    {
+      "fileName": "cupra_tavascan_standard_pack.xml",
+      "name": "Paquete Estándar Cupra Tavascan",
+      "categories": {
+        "Ruedas": [
+          "Llantas de aleación de 19\" \"VULCANO Black/Silver\", torneado brillante, 8J x 19\", neumáticos 235/55 R19 delante, 255/50 R19 detrás"
+        ],
+        "Exterior": [
+          "Retrovisor exterior del lado del conductor asférico, lado del acompañante convexo",
+          "Inscripción \"CUPRA\" en el portón trasero en cobre"
+        ],
+        "Interior": [
+          "Iluminación ambiental",
+          "Pedales deportivos en aspecto de aluminio",
+          "Parasoles con espejo de cortesía, iluminados"
+        ],
+        "Asientos interiores": [
+          "3 asientos traseros, respaldo del asiento trasero abatible asimétricamente",
+          "Asientos deportivos tipo baquet CUPRA de textil reciclado en Soul Black, delanteros",
+          "Asiento del conductor y del acompañante ajustables manualmente incl. ajuste de altura"
+        ],
+        "Climatización": [
+          "Climatronic con regulación de temperatura de 1 zona"
+        ],
+        "Carga": [
+          "Toma de carga CCS (para cargar con corriente continua y alterna)",
+          "Cable de carga Modo 3, Tipo 2 / 16A"
+        ],
+        "Sistemas de radio, navegación y multimedia": [
+          "Interfaces USB-C 2 delante / 2 detrás (función de carga)",
+          "7 altavoces",
+          "Antena para recepción de FM",
+          "Recepción de radio digital DAB+",
+          "Full Link",
+          "Preparado para la activación de CUPRA CONNECT con un período de contrato gratuito de 10 años ³",
+          "Sistema de infoentretenimiento con pantalla de 15\""
+        ],
+        "Luz": [
+          "Proyección de luz del logo de CUPRA para bienvenida bajo los retrovisores exteriores",
+          "Luces traseras LED con banda luminosa en la parte trasera y logo de CUPRA iluminado",
+          "Faros LED con sensor de luz, cambio automático de luces de cruce"
+        ],
+        "Sistemas de seguridad y asistencia": [
+          "Asistente de cambio de carril \"Side Assist\" incl. asistente de ángulo muerto y de salida de aparcamiento con aviso de salida",
+          "Asistente de mantenimiento de carril",
+          "Sistema de airbags de cabeza, delante y detrás y airbag central",
+          "Airbag para conductor y acompañante",
+          "Preparación para enganche de remolque",
+          "Control de crucero adaptativo ACC",
+          "Función Car2X",
+          "Perfil de conducción CUPRA",
+          "CUPRA e-Sound (AVAS Acoustic Vehicle Alert System, sistema de alerta acústica del vehículo) de 0-50 km/h",
+          "Retrovisor interior con atenuación automática",
+          "Sistema de seguridad para asientos infantiles ISOFIX, en la 2ª fila de asientos a la izquierda y a la derecha, así como en el asiento del acompañante, compatible con i-Size incl. puntos de anclaje Top Tether detrás",
+          "Keyless Go (botón de arranque/parada del motor)",
+          "Detección de fatiga y atención",
+          "Servicio de llamada de emergencia; no es necesario registrarse, el servicio se activa en el momento de la entrega",
+          "Sistema proactivo de protección de los ocupantes \"PreCrash Assist\"",
+          "Sensor de lluvia",
+          "Asistente de maniobra evasiva con asistente de giro",
+          "Ayuda de aparcamiento delante y detrás",
+          "Asistente de frenada de emergencia \"Front Assist\" con detección de peatones y ciclistas",
+          "Reconocimiento de señales de tráfico",
+          "Zumbador y luz de advertencia para cinturones de seguridad no abrochados, delante y detrás"
+        ]
+      },
+      "categoryOrder": [
+        "Ruedas",
+        "Exterior",
+        "Interior",
+        "Asientos interiores",
+        "Climatización",
+        "Carga",
+        "Sistemas de radio, navegación y multimedia",
+        "Luz",
+        "Sistemas de seguridad y asistencia"
+      ],
+      "duplicateFeatures": {},
+      "duplicateFeaturesGlobal": [],
+      "emptyCategories": []
+    },
+    {
+      "fileName": "cupra_tavascan_immersive_pack.xml",
+      "name": "Paquete Inmersivo Cupra Tavascan",
+      "categories": {
+        "Ruedas": [
+          "Llantas de aleación de 20\" \"HECKLA Black/Silver\", torneado brillante, 9J x 20\", neumáticos 255/45 R20",
+          "Neumáticos 255/45 R20 con función de autosellado"
+        ],
+        "Exterior": [
+          "Ventanillas laterales a partir de la 2ª fila de asientos y luneta trasera tintadas de oscuro",
+          "Huecos de las manillas de las puertas exteriores, delanteros iluminados",
+          "Portón trasero de accionamiento eléctrico (apertura y cierre) incl. apertura controlada por sensor (pedal virtual)",
+          "Retrovisores exteriores con función de memoria y descenso del retrovisor del acompañante",
+          "Listones de umbral de las puertas delanteras con inscripción \"CUPRA\", iluminados"
+        ],
+        "Interior": [
+          "Piso del maletero variable",
+          "Reposabrazos central trasero, con posibilidad de carga",
+          "Volante multifunción superdeportivo CUPRA con levas para el ajuste de la recuperación y selector de modo CUPRA, calefactable",
+          "Luz ambiental inteligente con elementos de las puertas retroiluminados delante y detrás"
+        ],
+        "Asientos interiores": [
+          "Asientos deportivos tipo baquet CUPRA de microfibra reciclada en Dark Night Blue, delanteros",
+          "Asientos delanteros ajustables eléctricamente con función de memoria",
+          "Asientos delanteros calefactables",
+          "Apoyo lumbar delantero, ajustable neumáticamente"
+        ],
+        "Climatización": [
+          "Climatronic (3 zonas) con panel de control de climatización trasero"
+        ],
+        "Carga": [],
+        "Sistemas de radio, navegación y multimedia": [
+          "Sistema de sonido envolvente de gama alta Sennheiser, con 12 altavoces",
+          "Sistema de navegación con pantalla de 15\" y funciones ampliadas de CUPRA CONNECT ³"
+        ],
+        "Luz": [
+          "Faros LED con sensor de luz, cambio automático de luces de cruce y asistente de luz de carretera"
+        ],
+        "Sistemas de seguridad y asistencia": [
+          "Asistente de aparcamiento \"Intelligent Park Assist\" (IPA) y \"Remote Park Assist\" (RPA)",
+          "Cámara de visión cenital",
+          "Asistente de mantenimiento de carril Plus incl. Travel Assist, Emergency Assist y asistente de atascos",
+          "Asistente de aparcamiento entrenado (TPA)",
+          "Kessy advanced, sistema de cierre y arranque sin llave",
+          "Sistema de alarma antirrobo incl. vigilancia del habitáculo, bocina de respaldo, protección contra remolque"
+        ]
+      },
+      "categoryOrder": [
+        "Ruedas",
+        "Exterior",
+        "Interior",
+        "Asientos interiores",
+        "Climatización",
+        "Carga",
+        "Sistemas de radio, navegación y multimedia",
+        "Luz",
+        "Sistemas de seguridad y asistencia"
+      ],
+      "duplicateFeatures": {},
+      "duplicateFeaturesGlobal": [],
+      "emptyCategories": [
+        "Carga"
+      ]
+    },
+    {
+      "fileName": "cupra_tavascan_adrenaline_pack.xml",
+      "name": "Paquete Adrenalina Cupra Tavascan",
+      "categories": {
+        "Ruedas": [
+          "Llantas de aleación de 21\" \"KATLA Black/Copper\", torneado brillante, 9J x 21\", neumáticos 255/40 R21",
+          "Neumáticos 255/40 R21 con función de autosellado"
+        ],
+        "Exterior": [
+          "Retrovisores exteriores con función de memoria y descenso del retrovisor del acompañante",
+          "Ventanillas laterales a partir de la 2ª fila de asientos y luneta trasera tintadas de oscuro",
+          "Techo panorámico de cristal, no practicable con persiana eléctrica",
+          "Listones de umbral de las puertas delanteras con inscripción \"CUPRA\", iluminados",
+          "Huecos de las manillas de las puertas exteriores, delanteros iluminados",
+          "Portón trasero de accionamiento eléctrico (apertura y cierre) incl. apertura controlada por sensor (pedal virtual)"
+        ],
+        "Interior": [
+          "Volante multifunción superdeportivo CUPRA con levas para el ajuste de la recuperación y selector de modo CUPRA, calefactable",
+          "Reposabrazos central trasero, con posibilidad de carga",
+          "Piso del maletero variable",
+          "Luz ambiental inteligente con elementos de las puertas retroiluminados delante y detrás"
+        ],
+        "Asientos interiores": [
+          "Asientos deportivos tipo baquet CUPRA de microfibra reciclada en Dark Night Blue, delanteros",
+          "Apoyo lumbar delantero, ajustable neumáticamente",
+          "Asientos deportivos tipo baquet CUPRA de microfibra reciclada en Dark Night Blue, delanteros",
+          "Asientos delanteros calefactables",
+          "Asientos delanteros ajustables eléctricamente con función de memoria"
+        ],
+        "Climatización": [
+          "Climatronic (3 zonas) con panel de control de climatización trasero"
+        ],
+        "Carga": [],
+        "Sistemas de radio, navegación y multimedia": [
+          "Sistema de sonido envolvente de gama alta Sennheiser, con 12 altavoces",
+          "Sistema de navegación con pantalla de 15\" y funciones ampliadas de CUPRA CONNECT ³"
+        ],
+        "Luz": [
+          "Faros Matrix LED con ceremonia de firma"
+        ],
+        "Sistemas de seguridad y asistencia": [
+          "Asistente de aparcamiento \"Intelligent Park Assist\" (IPA) y \"Remote Park Assist\" (RPA)",
+          "Cámara de visión cenital",
+          "Asistente de aparcamiento entrenado (TPA)",
+          "Head-up-Display de realidad aumentada",
+          "Control de chasis adaptativo DCC",
+          "Asistente de mantenimiento de carril Plus incl. Travel Assist, Emergency Assist y asistente de atascos",
+          "Kessy advanced, sistema de cierre y arranque sin llave",
+          "Sistema de alarma antirrobo incl. vigilancia del habitáculo, bocina de respaldo, protección contra remolque"
+        ]
+      },
+      "categoryOrder": [
+        "Ruedas",
+        "Exterior",
+        "Interior",
+        "Asientos interiores",
+        "Climatización",
+        "Carga",
+        "Sistemas de radio, navegación y multimedia",
+        "Luz",
+        "Sistemas de seguridad y asistencia"
+      ],
+      "duplicateFeatures": {
+        "Asientos interiores": [
+          {
+            "feature": "Asientos deportivos tipo baquet CUPRA de microfibra reciclada en Dark Night Blue, delanteros",
+            "count": 2
+          }
+        ]
+      },
+      "duplicateFeaturesGlobal": [
+        {
+          "feature": "Asientos deportivos tipo baquet CUPRA de microfibra reciclada en Dark Night Blue, delanteros",
+          "count": 2,
+          "categories": [
+            "Asientos interiores"
+          ]
+        }
+      ],
+      "emptyCategories": [
+        "Carga"
+      ]
+    },
+    {
+      "fileName": "cupra_tavascan_extreme_pack.xml",
+      "name": "Paquete Extreme incl. Paquete Adrenalina",
+      "categories": {
+        "Ruedas": [
+          "Llantas de aleación forjadas de 21\" \"ETNA Black/Copper\", torneado brillante, neumáticos de alto rendimiento 255/40 R21",
+          "Neumáticos de alto rendimiento 255/40 R21"
+        ],
+        "Exterior": [
+          "Retrovisores exteriores con función de memoria y descenso del retrovisor del acompañante",
+          "Techo panorámico de cristal, no practicable con persiana eléctrica",
+          "Ventanillas laterales a partir de la 2ª fila de asientos y luneta trasera tintadas de oscuro",
+          "Portón trasero de accionamiento eléctrico (apertura y cierre) incl. apertura controlada por sensor (pedal virtual)",
+          "Huecos de las manillas de las puertas exteriores, delanteros iluminados",
+          "Listones de umbral de las puertas delanteras con inscripción \"CUPRA\", iluminados"
+        ],
+        "Interior": [
+          "Piso del maletero variable",
+          "Reposabrazos central trasero, con posibilidad de carga",
+          "Luz ambiental inteligente con elementos de las puertas retroiluminados delante y detrás",
+          "Salpicadero en negro, reposabrazos en las puertas y consola central en Enceladus Grey",
+          "Volante multifunción superdeportivo CUPRA de cuero, con levas para el ajuste de la recuperación y selector de modo CUPRA, calefactable"
+        ],
+        "Asientos interiores": [
+          "Asientos superdeportivos tipo baquet CUPRA \"CUP\" de cuero en Enceladus Grey delanteros, ventilados",
+          "Asientos delanteros calefactables",
+          "Reposacabezas para asientos delanteros",
+          "Asientos delanteros ajustables eléctricamente con función de memoria",
+          "Ventilación de asientos delanteros",
+          "Apoyo lumbar delantero, ajustable neumáticamente"
+        ],
+        "Climatización": [
+          "Climatronic (3 zonas) con panel de control de climatización trasero"
+        ],
+        "Carga": [],
+        "Sistemas de radio, navegación y multimedia": [
+          "Sistema de navegación con pantalla de 15\" y funciones ampliadas de CUPRA CONNECT ³",
+          "Sistema de sonido envolvente de gama alta Sennheiser, con 12 altavoces"
+        ],
+        "Luz": [
+          "Faros Matrix LED con ceremonia de firma"
+        ],
+        "Sistemas de seguridad y asistencia": [
+          "Sistema de alarma antirrobo incl. vigilancia del habitáculo, bocina de respaldo, protección contra remolque",
+          "Control de chasis adaptativo DCC",
+          "Asistente de aparcamiento entrenado (TPA)",
+          "Head-up-Display de realidad aumentada",
+          "Asistente de mantenimiento de carril Plus incl. Travel Assist, Emergency Assist y asistente de atascos",
+          "Asistente de aparcamiento \"Intelligent Park Assist\" (IPA) y \"Remote Park Assist\" (RPA)",
+          "Sistema de seguridad para asientos infantiles ISOFIX, en la 2ª fila de asientos a la izquierda y a la derecha, compatible con i-Size incl. puntos de anclaje Top Tether detrás",
+          "Cámara de visión cenital",
+          "Kessy advanced, sistema de cierre y arranque sin llave"
+        ]
+      },
+      "categoryOrder": [
+        "Ruedas",
+        "Exterior",
+        "Interior",
+        "Asientos interiores",
+        "Climatización",
+        "Carga",
+        "Sistemas de radio, navegación y multimedia",
+        "Luz",
+        "Sistemas de seguridad y asistencia"
+      ],
+      "duplicateFeatures": {},
+      "duplicateFeaturesGlobal": [],
+      "emptyCategories": [
+        "Carga"
+      ]
+    }
+  ],
+  "categoryOrder": [
+    "Ruedas",
+    "Exterior",
+    "Interior",
+    "Asientos interiores",
+    "Climatización",
+    "Carga",
+    "Sistemas de radio, navegación y multimedia",
+    "Luz",
+    "Sistemas de seguridad y asistencia"
+  ],
+  "warnings": [
+    "Paquete Inmersivo Cupra Tavascan: la categoría 'Carga' no tiene entradas de características.",
+    "Paquete Adrenalina Cupra Tavascan: la categoría 'Carga' no tiene entradas de características.",
+    "Paquete Adrenalina Cupra Tavascan: la característica aparece 2x en 'Asientos interiores': Asientos deportivos tipo baquet CUPRA de microfibra reciclada en Dark Night Blue, delanteros",
+    "Paquete Adrenalina Cupra Tavascan: la característica aparece en varias categorías (Asientos interiores): Asientos deportivos tipo baquet CUPRA de microfibra reciclada en Dark Night Blue, delanteros",
+    "Paquete Extreme incl. Paquete Adrenalina: la categoría 'Carga' no tiene entradas de características."
+  ]
+}

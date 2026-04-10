@@ -1,0 +1,322 @@
+{
+  "generatedAt": "2026-04-10 17:26:02",
+  "packs": [
+    {
+      "fileName": "cupra_tavascan_standard_pack.xml",
+      "name": "Cupra Tavascan Standard Pack",
+      "categories": {
+        "Räder": [
+          "19\" Leichtmetallräder \"VULCANO Black/Silver\", glanzgedreht, 8J x19\", Reifen 235/55 R19 vorne, 255/50 R19 hinten"
+        ],
+        "Außenausstattung": [
+          "Außenspiegel Fahrerseite asphärisch, Beifahrerseite konvex",
+          "Schriftzug \"CUPRA\" auf Heckklappe in copper"
+        ],
+        "Innenausstattung": [
+          "Ambientebeleuchtung",
+          "Sportpedalerie in Aluminiumoptik",
+          "Sonnenblenden mit Make-up Spiegel, beleuchtet"
+        ],
+        "Innenausstattung Sitze": [
+          "3 Rücksitze, Rücksitzlehne asymmetrisch geteilt umklappbar",
+          "CUPRA Sportschalensitze aus recyceltem Textil in Soul Black, vorne",
+          "Manuell einstellbarer Fahrer- und Beifahrersitz inkl. Höhenverstellung"
+        ],
+        "Klimatisierung": [
+          "Climatronic mit 1-Zonen-Temperaturregelung"
+        ],
+        "Laden": [
+          "CCS-Ladedose (zum Aufladen mit Gleich- und Wechselstrom)",
+          "Ladekabel Mode 3, Typ 2 / 16A"
+        ],
+        "Radio-, Navigations- und Multimediasysteme": [
+          "USB-C-Schnittstellen 2 vorne / 2 hinten (Ladefunktion)",
+          "7 Lautsprecher",
+          "Antenne für FM Empfang",
+          "Digitaler Radioempfang DAB+",
+          "Full Link",
+          "Vorbereitet für die Aktivierung von CUPRA CONNECT mit kostenloser Vertragslaufzeit von 10 Jahren ³",
+          "Infotainmentsystem mit 15\" Display"
+        ],
+        "Licht": [
+          "CUPRA Logo Lichtprojektion zur Begrüßung unter den Außenspiegeln",
+          "LED-Heckleuchten mit Lichtband am Heck und beleuchtetem CUPRA Logo",
+          "LED-Scheinwerfer mit Lichtsensor, automatischer Fahrlichtschaltung"
+        ],
+        "Sicherheits- und Assistenzsysteme": [
+          "Spurwechselassistent \"Side Assist\" inkl. Totwinkel- und Ausparkassistent mit Ausstiegswarnung",
+          "Spurhalteassistent",
+          "Kopfairbag-System, vorne und hinten und Center-Airbag",
+          "Airbag für Fahrer und Beifahrer",
+          "Anhängevorrichtung-Vorbereitung",
+          "Automatische Distanzregelung ACC",
+          "Car2X Funktion",
+          "CUPRA Drive Profile",
+          "CUPRA e-Sound (AVAS Acoustic Vehicle Alert System, akustischen Fahrzeug-Warnsystem) von 0-50 km/h",
+          "Innenspiegel automatisch abblendend",
+          "ISOFIX-Kindersitz-Sicherungssystem, in der 2. Sitzreihe links und rechts sowie auf Beifahrersitz, i-Size kompatibel inkl. Top Tether Verankerungspunkte hinten",
+          "Keyless Go (Motor Start/Stop Knopf)",
+          "Müdigkeits- und Aufmerksamkeitserkennung",
+          "Notruf-Service; keine Registrierung notwendig, Dienst ist bei Auslieferung aktiviert",
+          "Proaktives Insassenschutzsystem \"PreCrash Assist\"",
+          "Regensensor",
+          "Ausweichunterstützung mit Abbiegeassistent",
+          "Einparkhilfe vorne und hinten",
+          "Notbremsassistent \"Front Assist\" mit Fußgänger- und Radfahrererkennung",
+          "Verkehrszeichenerkennung",
+          "Warnsummer und - leuchte für nicht angelegte Sicherheitsgurte, vorne und hinten"
+        ]
+      },
+      "categoryOrder": [
+        "Räder",
+        "Außenausstattung",
+        "Innenausstattung",
+        "Innenausstattung Sitze",
+        "Klimatisierung",
+        "Laden",
+        "Radio-, Navigations- und Multimediasysteme",
+        "Licht",
+        "Sicherheits- und Assistenzsysteme"
+      ],
+      "duplicateFeatures": {},
+      "duplicateFeaturesGlobal": [],
+      "emptyCategories": []
+    },
+    {
+      "fileName": "cupra_tavascan_immersive_pack.xml",
+      "name": "Cupra Tavascan Immersive Pack",
+      "categories": {
+        "Räder": [
+          "20\" Leichtmetallräder \"HECKLA Black/Silver\", glanzgedreht, 9J x 20\", Reifen 255/45 R20",
+          "Reifen 255/45 R20 mit Self-Sealing-Funktion"
+        ],
+        "Außenausstattung": [
+          "Seitenscheiben ab 2. Sitzreihe und Heckscheibe dunkel getönt",
+          "Äußere Türgriffmulden, vorne beleuchtet",
+          "Heckklappe elektrisch betätigt (Öffnung & Schließung) inkl. sensorgesteuerter Öffnung (virtuelles Pedal)",
+          "Außenspiegel mit Memory-Funktion und Beifahrerspiegelabsenkung",
+          "Türeinstiegsleisten vorne mit \"CUPRA\" Schriftzug, beleuchtet"
+        ],
+        "Innenausstattung": [
+          "Variabler Gepäckraumboden",
+          "Mittelarmlehne hinten, mit Durchlademöglichkeit",
+          "CUPRA Supersportmultifunktionslenkrad mit Wippen zur Rekuperationseinstellung und CUPRA Mode Selector, beheizbar",
+          "Smart Ambient Light mit hinterleuchteten Tür-Elementen vorne und hinten"
+        ],
+        "Innenausstattung Sitze": [
+          "CUPRA Sportschalensitze aus recyceltem Mikrofaser in Dark Night Blue, vorne",
+          "Vordersitze elektrisch einstellbar mit Memory Funktion",
+          "Vordersitze beheizbar",
+          "Lendenwirbelstütze vorne, pneumatisch einstellbar"
+        ],
+        "Klimatisierung": [
+          "Climatronic ( 3-Zonen ) mit Klimabedienteil hinten"
+        ],
+        "Laden": [],
+        "Radio-, Navigations- und Multimediasysteme": [
+          "Sennheiser High-End Surround Soundsystem, mit 12 Lautsprechern",
+          "Navigationssystem mit 15\" Display und erweiterten CUPRA CONNECT Funktionen ³"
+        ],
+        "Licht": [
+          "LED-Scheinwerfer mit Lichtsensor, automatischer Fahrlichtschaltung und Fernlichtassistent"
+        ],
+        "Sicherheits- und Assistenzsysteme": [
+          "Parklenkassistent \"Intelligent Park Assist\" (IPA) und \"Remote Park Assist\" (RPA)",
+          "Top View Kamera",
+          "Spurhalteassistent Plus inkl. Travel Assist, Emergency Assist und Stauassistent",
+          "Trained Park Assist (TPA)",
+          "Kessy advanced, Schlüsselloses Schließ-und Startsystem",
+          "Diebstahl-Warnanlage inkl. Innenraumüberwachung, Back-up-Horn, Abschleppschutz"
+        ]
+      },
+      "categoryOrder": [
+        "Räder",
+        "Außenausstattung",
+        "Innenausstattung",
+        "Innenausstattung Sitze",
+        "Klimatisierung",
+        "Laden",
+        "Radio-, Navigations- und Multimediasysteme",
+        "Licht",
+        "Sicherheits- und Assistenzsysteme"
+      ],
+      "duplicateFeatures": {},
+      "duplicateFeaturesGlobal": [],
+      "emptyCategories": [
+        "Laden"
+      ]
+    },
+    {
+      "fileName": "cupra_tavascan_adrenaline_pack.xml",
+      "name": "Cupra Tavascan Adrenaline Pack",
+      "categories": {
+        "Räder": [
+          "21\" Leichtmetallräder \"KATLA Black/Copper\", glanzgedreht, 9J x 21\", Reifen 255/40 R21",
+          "Reifen 255/40 R21 mit Self-Sealing-Funktion"
+        ],
+        "Außenausstattung": [
+          "Außenspiegel mit Memory-Funktion und Beifahrerspiegelabsenkung",
+          "Seitenscheiben ab 2. Sitzreihe und Heckscheibe dunkel getönt",
+          "Panorama Glasdach, nicht zu öffnen mit elektrischem Sonnenschutzrollo",
+          "Türeinstiegsleisten vorne mit \"CUPRA\" Schriftzug, beleuchtet",
+          "Äußere Türgriffmulden, vorne beleuchtet",
+          "Heckklappe elektrisch betätigt (Öffnung& Schließung) inkl. sensorgesteuerter Öffnung (virtuelles Pedal)"
+        ],
+        "Innenausstattung": [
+          "CUPRA Supersportmultifunktionslenkrad mit Wippen zur Rekuperationseinstellung und CUPRA Mode Selector, beheizbar",
+          "Mittelarmlehne hinten, mit Durchlademöglichkeit",
+          "Variabler Gepäckraumboden",
+          "Smart Ambient Light mit hinterleuchteten Tür-Elementen vorne und hinten"
+        ],
+        "Innenausstattung Sitze": [
+          "CUPRA Sportschalensitze aus recyceltem Mikrofaser in Dark Night Blue, vorne",
+          "Lendenwirbelstütze vorne, pneumatisch einstellbar",
+          "CUPRA Sportschalensitze aus recyceltem Mikrofaser in Dark Night Blue, vorne",
+          "Vordersitze beheizbar",
+          "Vordersitze elektrisch einstellbar mit Memory Funktion"
+        ],
+        "Klimatisierung": [
+          "Climatronic ( 3-Zonen ) mit Klimabedienteil hinten"
+        ],
+        "Laden": [],
+        "Radio-, Navigations- und Multimediasysteme": [
+          "Sennheiser High-End Surround Soundsystem, mit 12 Lautsprechern",
+          "Navigationssystem mit 15\" Display und erweiterten CUPRA CONNECT Funktionen ³"
+        ],
+        "Licht": [
+          "Matrix-LED-Scheinwerfer mit Signature Ceremony"
+        ],
+        "Sicherheits- und Assistenzsysteme": [
+          "Parklenkassistent \"Intelligent Park Assist\" (IPA) und \"Remote Park Assist\" (RPA)",
+          "Top View Kamera",
+          "Trained Park Assist (TPA)",
+          "AR Head-up-Display",
+          "Adaptive Fahrwerksregelung DCC",
+          "Spurhalteassistent Plus inkl. Travel Assist, Emergency Assist und Stauassistent",
+          "Kessy advanced, Schlüsselloses Schließ-und Startsystem",
+          "Diebstahl-Warnanlage inkl. Innenraumüberwachung, Back-up-Horn, Abschleppschutz"
+        ]
+      },
+      "categoryOrder": [
+        "Räder",
+        "Außenausstattung",
+        "Innenausstattung",
+        "Innenausstattung Sitze",
+        "Klimatisierung",
+        "Laden",
+        "Radio-, Navigations- und Multimediasysteme",
+        "Licht",
+        "Sicherheits- und Assistenzsysteme"
+      ],
+      "duplicateFeatures": {
+        "Innenausstattung Sitze": [
+          {
+            "feature": "CUPRA Sportschalensitze aus recyceltem Mikrofaser in Dark Night Blue, vorne",
+            "count": 2
+          }
+        ]
+      },
+      "duplicateFeaturesGlobal": [
+        {
+          "feature": "CUPRA Sportschalensitze aus recyceltem Mikrofaser in Dark Night Blue, vorne",
+          "count": 2,
+          "categories": [
+            "Innenausstattung Sitze"
+          ]
+        }
+      ],
+      "emptyCategories": [
+        "Laden"
+      ]
+    },
+    {
+      "fileName": "cupra_tavascan_extreme_pack.xml",
+      "name": "Extreme Pack inkl. Adrenaline Pack",
+      "categories": {
+        "Räder": [
+          "21\" geschmiedete Leichtmetallräder \"ETNA Black/Copper\", glanzgedreht, Hochleistungsreifen 255/40 R21",
+          "Hochleistungsreifen 255/40 R21"
+        ],
+        "Außenausstattung": [
+          "Außenspiegel mit Memory-Funktion und Beifahrerspiegelabsenkung",
+          "Panorama Glasdach, nicht zu öffnen mit elektrischem Sonnenschutzrollo",
+          "Seitenscheiben ab 2. Sitzreihe und Heckscheibe dunkel getönt",
+          "Heckklappe elektrisch betätigt (Öffnung& Schließung) inkl. sensorgesteuerter Öffnung (virtuelles Pedal)",
+          "Äußere Türgriffmulden, vorne beleuchtet",
+          "Türeinstiegsleisten vorne mit \"CUPRA\" Schriftzug, beleuchtet"
+        ],
+        "Innenausstattung": [
+          "Variabler Gepäckraumboden",
+          "Mittelarmlehne hinten, mit Durchlademöglichkeit",
+          "Smart Ambient Light mit hinterleuchteten Tür-Elementen vorne und hinten",
+          "Dashboard in Black, Armablagen in den Türen und Mittelkonsole in Enceladus Grey",
+          "CUPRA Supersportmultifunktionslenkrad aus Leder, mit Wippen zur Rekuperationseinstellung und CUPRA Mode Selector, beheizbar"
+        ],
+        "Innenausstattung Sitze": [
+          "CUPRA \"CUP\" Supersport-Schalensitze aus Leder in Enceladus Grey vorne, belüftet",
+          "Vordersitze beheizbar",
+          "Kopfstützen für Vordersitze",
+          "Vordersitze elektrisch einstellbar mit Memory Funktion",
+          "Sitzbelüftung vorn",
+          "Lendenwirbelstütze vorne, pneumatisch einstellbar"
+        ],
+        "Klimatisierung": [
+          "Climatronic ( 3-Zonen ) mit Klimabedienteil hinten"
+        ],
+        "Laden": [],
+        "Radio-, Navigations- und Multimediasysteme": [
+          "Navigationssystem mit 15\" Display und erweiterten CUPRA CONNECT Funktionen ³",
+          "Sennheiser High-End Surround Soundsystem, mit 12 Lautsprechern"
+        ],
+        "Licht": [
+          "Matrix-LED-Scheinwerfer mit Signature Ceremony"
+        ],
+        "Sicherheits- und Assistenzsysteme": [
+          "Diebstahl-Warnanlage inkl. Innenraumüberwachung, Back-up-Horn, Abschleppschutz",
+          "Adaptive Fahrwerksregelung DCC",
+          "Trained Park Assist (TPA)",
+          "AR Head-up-Display",
+          "Spurhalteassistent Plus inkl. Travel Assist, Emergency Assist und Stauassistent",
+          "Parklenkassistent \"Intelligent Park Assist\" (IPA) und \"Remote Park Assist\" (RPA)",
+          "ISOFIX-Kindersitz-Sicherungssystem, in der 2. Sitzreihe links und rechts, i-Size kompatibel inkl. Top Tether Verankerungspunkte hinten",
+          "Top View Kamera",
+          "Kessy advanced, Schlüsselloses Schließ-und Startsystem"
+        ]
+      },
+      "categoryOrder": [
+        "Räder",
+        "Außenausstattung",
+        "Innenausstattung",
+        "Innenausstattung Sitze",
+        "Klimatisierung",
+        "Laden",
+        "Radio-, Navigations- und Multimediasysteme",
+        "Licht",
+        "Sicherheits- und Assistenzsysteme"
+      ],
+      "duplicateFeatures": {},
+      "duplicateFeaturesGlobal": [],
+      "emptyCategories": [
+        "Laden"
+      ]
+    }
+  ],
+  "categoryOrder": [
+    "Räder",
+    "Außenausstattung",
+    "Innenausstattung",
+    "Innenausstattung Sitze",
+    "Klimatisierung",
+    "Laden",
+    "Radio-, Navigations- und Multimediasysteme",
+    "Licht",
+    "Sicherheits- und Assistenzsysteme"
+  ],
+  "warnings": [
+    "Cupra Tavascan Immersive Pack: category 'Laden' has no feature entries.",
+    "Cupra Tavascan Adrenaline Pack: category 'Laden' has no feature entries.",
+    "Cupra Tavascan Adrenaline Pack: feature appears 2x in 'Innenausstattung Sitze': CUPRA Sportschalensitze aus recyceltem Mikrofaser in Dark Night Blue, vorne",
+    "Cupra Tavascan Adrenaline Pack: feature appears in multiple categories (Innenausstattung Sitze): CUPRA Sportschalensitze aus recyceltem Mikrofaser in Dark Night Blue, vorne",
+    "Extreme Pack inkl. Adrenaline Pack: category 'Laden' has no feature entries."
+  ]
+}

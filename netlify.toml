@@ -1,0 +1,3 @@
+[build]
+  command = "python src/scripts/generate_car_pack_report.py --base-dir src/data --output ../../public/data.json && vite build"
+  publish = "dist"
