@@ -13,7 +13,7 @@ const Matrix = ({ data }: MatrixProps) => {
         return data.categoryOrder.map(categoryName => {
             const featureSet = new Set<string>();
             data.packs.forEach(pack => {
-                (pack.categories[categoryName] || []).forEach(feature => featureSet.add(feature));
+                (pack.categories[categoryName] || []).forEach(feature => featureSet.add(feature.name));
             });
             const features = Array.from(featureSet).sort((a, b) => a.localeCompare(b));
             return { categoryName, features };
@@ -41,12 +41,12 @@ const Matrix = ({ data }: MatrixProps) => {
                                 </thead>
                                 <tbody>
                                     {features.map(feature => {
-                                        const presentCount = data.packs.filter(pack => (pack.categories[categoryName] || []).includes(feature)).length;
+                                        const presentCount = data.packs.filter(pack => (pack.categories[categoryName] || []).some(f => f.name === feature)).length;
                                         return (
                                             <tr key={feature}>
                                                 <td>{feature}</td>
                                                 {data.packs.map(pack => {
-                                                    const inPack = (pack.categories[categoryName] || []).includes(feature);
+                                                    const inPack = (pack.categories[categoryName] || []).some(f => f.name === feature);
                                                     return <td key={pack.name} className={`flag ${inPack ? 'yes' : 'no'}`}>{inPack ? 'x' : '-'}</td>;
                                                 })}
                                                 <td>{presentCount} / {data.packs.length}</td>
